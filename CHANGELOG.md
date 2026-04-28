@@ -16,7 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - Pandas optional via `pip install cross-signal-data[pandas]`.
 - ML notebook + scikit-learn baseline via `pip install cross-signal-data[ml]`.
   - Logistic regression and random forest both achieve ~79.9% CV accuracy.
-- HuggingFace dataset mirror: [huggingface.co/datasets/manja316/cross-signal-data](https://huggingface.co/datasets/manja316/cross-signal-data).
+- HuggingFace dataset mirror: [huggingface.co/datasets/LuciferForge/cross-signal-data](https://huggingface.co/datasets/LuciferForge/cross-signal-data).
 - 8/8 unit tests including data invariants (price ≤ 1, profitability consistency).
 - MIT license (code and data).
 
