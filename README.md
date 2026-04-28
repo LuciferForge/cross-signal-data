@@ -5,7 +5,7 @@
 [![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-yellow.svg)](https://huggingface.co/datasets/manja316/cross-signal-data)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-**The labeled Polymarket crash-recovery dataset behind a 79.8% win-rate live trading bot.**
+**The labeled Polymarket crash-recovery dataset behind a 80.2% win-rate live trading bot.**
 
 308 closed trades. Real Polymarket markets. Real entry triggers. Real outcomes. Public for anyone who wants to build their own mean-reversion bot, replicate our results, or prove us wrong.
 
