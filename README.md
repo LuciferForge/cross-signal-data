@@ -2,7 +2,7 @@
 
 [![PyPI](https://img.shields.io/pypi/v/cross-signal-data.svg)](https://pypi.org/project/cross-signal-data/)
 [![Python](https://img.shields.io/pypi/pyversions/cross-signal-data.svg)](https://pypi.org/project/cross-signal-data/)
-[![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-yellow.svg)](https://huggingface.co/datasets/manja316/cross-signal-data)
+[![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-yellow.svg)](https://huggingface.co/datasets/LuciferForge/cross-signal-data)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 **The labeled Polymarket crash-recovery dataset behind a 80.2% win-rate live trading bot.**
