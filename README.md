@@ -1,5 +1,9 @@
 # cross-signal-data
 
+[![PyPI](https://img.shields.io/pypi/v/cross-signal-data.svg)](https://pypi.org/project/cross-signal-data/)
+[![Python](https://img.shields.io/pypi/pyversions/cross-signal-data.svg)](https://pypi.org/project/cross-signal-data/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
 **The labeled Polymarket crash-recovery dataset behind a 79.8% win-rate live trading bot.**
 
 308 closed trades. Real Polymarket markets. Real entry triggers. Real outcomes. Public for anyone who wants to build their own mean-reversion bot, replicate our results, or prove us wrong.
